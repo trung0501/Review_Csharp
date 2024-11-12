@@ -1,0 +1,150 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\source\\repos\\.NET\\OnTap\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{77530DE8-E88C-4523-AB26-C966A23558C3}|OnTap\\OnTap.csproj|C:\\Users\\admin\\source\\repos\\.NET\\OnTap\\ontap\\frmcau2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77530DE8-E88C-4523-AB26-C966A23558C3}|OnTap\\OnTap.csproj|solutionrelative:ontap\\frmcau2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77530DE8-E88C-4523-AB26-C966A23558C3}|OnTap\\OnTap.csproj|C:\\Users\\admin\\source\\repos\\.NET\\OnTap\\ontap\\frmcau3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{77530DE8-E88C-4523-AB26-C966A23558C3}|OnTap\\OnTap.csproj|solutionrelative:ontap\\frmcau3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77530DE8-E88C-4523-AB26-C966A23558C3}|OnTap\\OnTap.csproj|C:\\Users\\admin\\source\\repos\\.NET\\OnTap\\ontap\\frmcau3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77530DE8-E88C-4523-AB26-C966A23558C3}|OnTap\\OnTap.csproj|solutionrelative:ontap\\frmcau3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77530DE8-E88C-4523-AB26-C966A23558C3}|OnTap\\OnTap.csproj|c:\\users\\admin\\source\\repos\\.net\\ontap\\ontap\\frmcau1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{77530DE8-E88C-4523-AB26-C966A23558C3}|OnTap\\OnTap.csproj|solutionrelative:ontap\\frmcau1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77530DE8-E88C-4523-AB26-C966A23558C3}|OnTap\\OnTap.csproj|C:\\Users\\admin\\source\\repos\\.NET\\OnTap\\ontap\\frmcau4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77530DE8-E88C-4523-AB26-C966A23558C3}|OnTap\\OnTap.csproj|solutionrelative:ontap\\frmcau4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77530DE8-E88C-4523-AB26-C966A23558C3}|OnTap\\OnTap.csproj|C:\\Users\\admin\\source\\repos\\.NET\\OnTap\\ontap\\frmcau1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77530DE8-E88C-4523-AB26-C966A23558C3}|OnTap\\OnTap.csproj|solutionrelative:ontap\\frmcau1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77530DE8-E88C-4523-AB26-C966A23558C3}|OnTap\\OnTap.csproj|C:\\Users\\admin\\source\\repos\\.NET\\OnTap\\ontap\\frmcau4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{77530DE8-E88C-4523-AB26-C966A23558C3}|OnTap\\OnTap.csproj|solutionrelative:ontap\\frmcau4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77530DE8-E88C-4523-AB26-C966A23558C3}|OnTap\\OnTap.csproj|C:\\Users\\admin\\source\\repos\\.NET\\OnTap\\ontap\\frmcau2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{77530DE8-E88C-4523-AB26-C966A23558C3}|OnTap\\OnTap.csproj|solutionrelative:ontap\\frmcau2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmCau4.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\.NET\\OnTap\\OnTap\\FrmCau4.cs",
+              "RelativeDocumentMoniker": "OnTap\\FrmCau4.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\.NET\\OnTap\\OnTap\\FrmCau4.cs",
+              "RelativeToolTip": "OnTap\\FrmCau4.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAADwvysAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T10:03:21.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrmCau4.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\.NET\\OnTap\\OnTap\\FrmCau4.cs",
+              "RelativeDocumentMoniker": "OnTap\\FrmCau4.cs",
+              "ToolTip": "C:\\Users\\nguye\\source\\repos\\OnTap\\OnTap\\FrmCau4.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\nguye\\source\\repos\\OnTap\\OnTap\\FrmCau4.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T09:57:46.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmCau3.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\.NET\\OnTap\\OnTap\\FrmCau3.cs",
+              "RelativeDocumentMoniker": "OnTap\\FrmCau3.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\.NET\\OnTap\\OnTap\\FrmCau3.cs",
+              "RelativeToolTip": "OnTap\\FrmCau3.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAADMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T09:06:45.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmCau3.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\.NET\\OnTap\\OnTap\\FrmCau3.cs",
+              "RelativeDocumentMoniker": "OnTap\\FrmCau3.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\.NET\\OnTap\\OnTap\\FrmCau3.cs [Design]",
+              "RelativeToolTip": "OnTap\\FrmCau3.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T08:19:31.008Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmCau2.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\.NET\\OnTap\\OnTap\\FrmCau2.cs",
+              "RelativeDocumentMoniker": "OnTap\\FrmCau2.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\.NET\\OnTap\\OnTap\\FrmCau2.cs",
+              "RelativeToolTip": "OnTap\\FrmCau2.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAADwvxkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T08:34:21.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmCau1.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\.NET\\OnTap\\OnTap\\FrmCau1.cs",
+              "RelativeDocumentMoniker": "OnTap\\FrmCau1.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\.NET\\OnTap\\OnTap\\FrmCau1.cs",
+              "RelativeToolTip": "OnTap\\FrmCau1.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAADgvyYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T08:24:40.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmCau1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\.NET\\OnTap\\OnTap\\FrmCau1.cs",
+              "RelativeDocumentMoniker": "OnTap\\FrmCau1.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\.NET\\OnTap\\OnTap\\FrmCau1.cs [Design]",
+              "RelativeToolTip": "OnTap\\FrmCau1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T08:15:24.352Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FrmCau2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\.NET\\OnTap\\OnTap\\FrmCau2.cs",
+              "RelativeDocumentMoniker": "OnTap\\FrmCau2.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\.NET\\OnTap\\OnTap\\FrmCau2.cs [Design]",
+              "RelativeToolTip": "OnTap\\FrmCau2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T08:19:13.259Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
